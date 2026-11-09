@@ -1,5 +1,6 @@
+Built with Java, JavaFX
 Lecture Timetable Scheduler
-Authors: Aisling Walsh 24416762 Luigi Curotto 24423882 
+Authors: Aisling Walsh & Luigi Curotto
 
 How To Use:
 1. Run Server.java
